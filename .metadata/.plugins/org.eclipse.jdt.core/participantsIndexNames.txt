@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1929755166.index
+\curso-login\src
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3515773097.index
+\curso-jsp1\src
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\488844681.index
+\curso-login2\src
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1895131396.index
+\curso-jspBean\src
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1266003827.index
+\curso-jsp\src
+C:\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1271753131.index
+\curso-jsp\src
